@@ -1,0 +1,54 @@
+.bt{
+	color:#26C5FF;
+	margin-bottom:10px;
+
+}
+.nr{
+	line-height:30px;
+	margin-top:15px;
+	text-indent:2em;
+}
+.row{
+	text-align:center;
+	font-size:9px;
+	margin-bottom:15px;
+}
+.aa{
+	margin-top:20px;
+	margin-bottom:40px;
+}
+.pm{
+	background-image:url(../images/a5.jpg);
+	background-size:cover;
+	
+	
+}
+.aq{
+	color:#008CFF;
+}
+.am{
+	margin-top:30px;
+	color:#008CFF;
+	
+}
+.dm{
+	background-image: url(../images/a1.jpg);
+	background-size:cover;
+	
+	
+}
+.xg{
+	color:#FF0004;
+	font-family:"黑体";
+	text-align:center;
+}
+
+.bottom{
+	color:#FFFFFF;
+	text-align:center;
+	font-size:9px;
+	background-color:#008CFF;
+	margin-top:30px;
+	padding-top:8px;
+	padding-bottom:7px;
+}
